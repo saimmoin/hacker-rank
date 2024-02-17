@@ -1,0 +1,20 @@
+{
+  "name": "hacker-rank",
+  "version": "1.0.0",
+  "description": "hacker rank solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saimmoin/hacker-rank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saimmoin/hacker-rank/issues"
+  },
+  "homepage": "https://github.com/saimmoin/hacker-rank#readme"
+}
