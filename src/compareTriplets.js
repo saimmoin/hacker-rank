@@ -73,8 +73,6 @@ function compareTriplets(a, b) {
       bob += 1
     } else if (a[i] > b[i]) {
       alice += 1
-    } else {
-      continue
     }
   }
   return [alice, bob]
